@@ -22,7 +22,7 @@ World.add(myWorld,this.body);
  //stroke("green");
  //strokeWeight(3);
   rectMode(CENTER); 
-  rect(pos.x,pos.y,this.width,this.height);
+  rect(0,0,this.width,this.height);
   pop();
  } 
 };
